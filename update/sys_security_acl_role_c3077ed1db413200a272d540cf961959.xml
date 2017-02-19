@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>keystone.gs</sys_created_by>
+        <sys_created_on>2017-02-19 09:37:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c3077ed1db413200a272d540cf961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_84247_handyman_m_handyman_maintenance_table.x_84247_handyman_m.user</sys_name>
+        <sys_package display_value="Handyman Maintenance" source="x_84247_handyman_m">7a077e91db413200a272d540cf9619b1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Handyman Maintenance">7a077e91db413200a272d540cf9619b1</sys_scope>
+        <sys_security_acl display_value="x_84247_handyman_m_handyman_maintenance_table">0f077ed1db413200a272d540cf961956</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c3077ed1db413200a272d540cf961959</sys_update_name>
+        <sys_updated_by>keystone.gs</sys_updated_by>
+        <sys_updated_on>2017-02-19 09:37:37</sys_updated_on>
+        <sys_user_role display_value="x_84247_handyman_m.user" name="x_84247_handyman_m.user">32077ed1db413200a272d540cf961939</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
