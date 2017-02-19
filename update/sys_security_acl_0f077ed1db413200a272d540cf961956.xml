@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>keystone.gs</sys_created_by>
         <sys_created_on>2017-02-19 09:37:37</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0f077ed1db413200a272d540cf961956</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_84247_handyman_m_handyman_maintenance_table</sys_name>
